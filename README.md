@@ -1,6 +1,8 @@
 :package: rfsfrn's Brewfile
 ===========================
 
+**[Brewfile](https://raw.githubusercontent.com/rfsfrn/homebrew-brewfile/master/Brewfile)** is a template for building automatically with **Homebrew**.
+
 Requirements
 ------------
 
