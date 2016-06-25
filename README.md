@@ -21,7 +21,7 @@ See also
 Use Brewfile
 ------------
 
-Paste that at a Terminal prompt:
+:coffee: Paste that at a Terminal prompt:
 
 ```
 curl "https://raw.githubusercontent.com/rfsfrn/homebrew-brewfile/master/Brewfile" -o ~/.Brewfile | brew bundle --file=.Brewfile
@@ -29,6 +29,7 @@ curl "https://raw.githubusercontent.com/rfsfrn/homebrew-brewfile/master/Brewfile
 
 :apple: Softwares
 =================
+
 
 
 [1]: https://developer.apple.com/downloads "Sign in with your Apple ID - Apple Developer"
