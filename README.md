@@ -27,6 +27,8 @@ Use Brewfile
 curl "https://raw.githubusercontent.com/rfsfrn/homebrew-brewfile/master/Brewfile" -o ~/.Brewfile | brew bundle --file=.Brewfile
 ```
 
+---
+
 :apple: Softwares
 =================
 
