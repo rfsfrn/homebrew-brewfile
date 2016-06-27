@@ -54,6 +54,9 @@ Productivity
 
 - :beer: Alfred
 - :beer: f.lux
+- :beer: Keynote
+- :beer: Numbers
+- :beer: Pages
 
 Developers
 ----------
