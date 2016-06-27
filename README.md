@@ -37,6 +37,7 @@ Table of Contents
 
 - [Utilities](#utilities)
 - [Productivity](#productivity)
+- [Communications](#communications)
 - [Developers](#developers)
 - [Graphics](#graphics)
 
@@ -59,6 +60,12 @@ Productivity
 - :beer: Keynote
 - :beer: Numbers
 - :beer: Pages
+
+Communications
+--------------
+
+- :beer: Skype
+- :beer: Slack
 
 Developers
 ----------
