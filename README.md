@@ -35,8 +35,13 @@ curl "https://raw.githubusercontent.com/rfsfrn/homebrew-brewfile/master/Brewfile
 Table of Contents
 -----------------
 
+- [Productivity](#productivity)
 - [Graphics](#graphics)
 
+Productivity
+------------
+
+- :package: Alfred
 
 Graphics
 --------
