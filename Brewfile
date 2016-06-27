@@ -6,6 +6,7 @@ brew 'mas'
 cask 'adobe-creative-cloud'
 cask 'alfred'
 cask 'appcleaner'
+cask 'cheatsheet'
 cask 'flux'
 cask 'karabiner'
 mas 'Xcode', id: 497799835

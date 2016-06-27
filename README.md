@@ -46,6 +46,7 @@ Utilities
 
 - :beer: Amphetamine
 - :beer: AppCleaner
+- :beer: CheatSheet
 - :beer: Karabiner
 - :beer: mas-cli
 
