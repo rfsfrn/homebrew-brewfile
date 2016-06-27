@@ -48,6 +48,7 @@ Utilities
 - :beer: AppCleaner
 - :beer: CheatSheet
 - :beer: Karabiner
+- :beer: Seil
 - :beer: mas-cli
 
 Productivity
