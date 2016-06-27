@@ -37,6 +37,7 @@ Table of Contents
 
 - [Utilities](#utilities)
 - [Productivity](#productivity)
+- [Developers](#developers)
 - [Graphics](#graphics)
 
 
@@ -50,6 +51,11 @@ Productivity
 
 - :beer: Alfred
 - :beer: f.lux
+
+Developers
+----------
+
+- :beer: Xcode
 
 Graphics
 --------
