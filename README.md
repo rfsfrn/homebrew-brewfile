@@ -44,6 +44,9 @@ Table of Contents
 Utilities
 ---------
 
+- :beer: Amphetamine
+- :beer: AppCleaner
+- :beer: Karabiner
 - :beer: mas-cli
 
 Productivity
