@@ -41,12 +41,12 @@ Table of Contents
 Productivity
 ------------
 
-- :package: Alfred
+- :beer: Alfred
 
 Graphics
 --------
 
-- :package: Adobe Creative Cloud
+- :beer: Adobe Creative Cloud
 
 
 
