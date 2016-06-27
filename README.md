@@ -77,6 +77,7 @@ Developers
 ----------
 
 - :beer: Xcode
+- :beer: Dash
 
 Graphics
 --------
