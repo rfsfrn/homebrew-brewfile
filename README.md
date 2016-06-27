@@ -37,6 +37,7 @@ Table of Contents
 
 - [Utilities](#utilities)
 - [Productivity](#productivity)
+- [Browsers](#browsers)
 - [Communications](#communications)
 - [Developers](#developers)
 - [Graphics](#graphics)
@@ -60,6 +61,11 @@ Productivity
 - :beer: Keynote
 - :beer: Numbers
 - :beer: Pages
+
+Browsers
+--------
+
+- :beer: Google Chrome
 
 Communications
 --------------
