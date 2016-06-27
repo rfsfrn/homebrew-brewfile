@@ -4,3 +4,4 @@ tap 'caskroom/cask'
 
 cask 'adobe-creative-cloud'
 cask 'alfred'
+cask 'flux'

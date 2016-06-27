@@ -38,10 +38,12 @@ Table of Contents
 - [Productivity](#productivity)
 - [Graphics](#graphics)
 
+
 Productivity
 ------------
 
 - :beer: Alfred
+- :beer: f.lux
 
 Graphics
 --------
