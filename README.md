@@ -41,6 +41,7 @@ Table of Contents
 - [Communications](#communications)
 - [Developers](#developers)
 - [Graphics](#graphics)
+- [Others](#others)
 
 
 Utilities
@@ -83,6 +84,11 @@ Graphics
 --------
 
 - :beer: Adobe Creative Cloud
+
+Others
+------
+
+- :beer: XQuartz
 
 
 
