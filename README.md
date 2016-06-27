@@ -35,9 +35,15 @@ curl "https://raw.githubusercontent.com/rfsfrn/homebrew-brewfile/master/Brewfile
 Table of Contents
 -----------------
 
+- [Utilities](#utilities)
 - [Productivity](#productivity)
 - [Graphics](#graphics)
 
+
+Utilities
+---------
+
+- :beer: mas-cli
 
 Productivity
 ------------
