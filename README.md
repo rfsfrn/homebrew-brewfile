@@ -59,6 +59,7 @@ Productivity
 
 - :beer: Alfred
 - :beer: f.lux
+- :beer: Dropbox
 - :beer: Keynote
 - :beer: Numbers
 - :beer: Pages
