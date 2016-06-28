@@ -22,6 +22,7 @@ cask 'slack'
 cask 'sourcetree'
 cask 'torbrowser'
 cask 'vagrant'
+cask 'vlc'
 cask 'xquartz'
 mas 'Xcode', id: 497799835
 mas 'Keynote', id: 409183694
