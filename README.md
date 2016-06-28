@@ -110,6 +110,7 @@ Media
 -----
 
 - :beer: VLC media player
+- :beer: iMovie
 
 Others
 ------
