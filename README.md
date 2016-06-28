@@ -81,6 +81,7 @@ Editors
 - :beer: Atom
 - :beer: GitHub Desktop
 - :beer: SourceTree
+- :beer: Xcode
 
 Terminals
 ---------
@@ -96,7 +97,6 @@ Communications
 Developers
 ----------
 
-- :beer: Xcode
 - :beer: Dash
 - :beer: Vagrant
 
