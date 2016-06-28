@@ -98,6 +98,7 @@ Developers
 ----------
 
 - :beer: Dash
+- :beer: Docker Toolbox
 - :beer: Vagrant
 
 Graphics
