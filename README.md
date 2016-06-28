@@ -68,7 +68,9 @@ Productivity
 Browsers
 --------
 
+- :beer: Firefox
 - :beer: Google Chrome
+- :beer: Tow Browser
 
 Terminals
 ---------
