@@ -88,6 +88,7 @@ Developers
 
 - :beer: Xcode
 - :beer: Dash
+- :beer: Vagrant
 
 Graphics
 --------

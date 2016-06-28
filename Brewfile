@@ -18,6 +18,7 @@ cask 'seil'
 cask 'skype'
 cask 'slack'
 cask 'torbrowser'
+cask 'vagrant'
 cask 'xquartz'
 mas 'Xcode', id: 497799835
 mas 'Keynote', id: 409183694
