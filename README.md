@@ -38,6 +38,7 @@ Table of Contents
 - [Utilities](#utilities)
 - [Productivity](#productivity)
 - [Browsers](#browsers)
+- [Terminals](#terminals)
 - [Communications](#communications)
 - [Developers](#developers)
 - [Graphics](#graphics)
@@ -68,6 +69,11 @@ Browsers
 --------
 
 - :beer: Google Chrome
+
+Terminals
+---------
+
+- :beer: iTerm
 
 Communications
 --------------
