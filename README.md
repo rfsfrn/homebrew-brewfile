@@ -38,6 +38,7 @@ Table of Contents
 - [Utilities](#utilities)
 - [Productivity](#productivity)
 - [Browsers](#browsers)
+- [Editors](#editors)
 - [Terminals](#terminals)
 - [Communications](#communications)
 - [Developers](#developers)
@@ -72,6 +73,13 @@ Browsers
 - :beer: Firefox
 - :beer: Google Chrome
 - :beer: Tow Browser
+
+Editors
+-------
+
+- :beer: Atom
+- :beer: GitHub Desktop
+- :beer: SourceTree
 
 Terminals
 ---------
