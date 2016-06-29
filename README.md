@@ -76,6 +76,7 @@ Browsers
 - :beer: Firefox
 - :beer: Google Chrome
 - :beer: Tow Browser
+- :beer: Opera
 - :beer: Vivaldi
 
 Editors
