@@ -88,6 +88,7 @@ Editors
 -------
 
 - :beer: Atom
+- :beer: Android Studio
 - :beer: GitHub Desktop
 - :beer: SourceTree
 - :beer: Xcode
