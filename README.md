@@ -50,6 +50,7 @@ Table of Contents
 Utilities
 ---------
 
+- :beer: Adobe Flash Player
 - :beer: Amphetamine
 - :beer: AppCleaner
 - :beer: CheatSheet
