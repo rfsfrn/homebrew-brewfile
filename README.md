@@ -43,7 +43,7 @@ Table of Contents
 - [Communications](#communications)
 - [Developers](#developers)
 - [Graphics](#graphics)
-- [Media](#media)
+- [Multimedia](#multimedia)
 - [Others](#others)
 
 
@@ -106,8 +106,8 @@ Graphics
 
 - :beer: Adobe Creative Cloud
 
-Media
------
+Multimedia
+----------
 
 - :beer: VLC media player
 - :beer: iMovie
