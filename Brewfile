@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 
 tap 'caskroom/cask'
+tap 'caskroom/fonts'
 
 brew 'mas'
 cask 'adobe-creative-cloud'
@@ -14,6 +15,7 @@ cask 'dropbox'
 cask 'firefox'
 cask 'flash'
 cask 'flux'
+cask 'font-fantasque-sans-mono'
 cask 'github-desktop'
 cask 'google-chrome'
 cask 'iterm2'

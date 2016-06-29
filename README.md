@@ -35,6 +35,7 @@ curl "https://raw.githubusercontent.com/rfsfrn/homebrew-brewfile/master/Brewfile
 Table of Contents
 -----------------
 
+- [Fonts](#fonts)
 - [Utilities](#utilities)
 - [Productivity](#productivity)
 - [Browsers](#browsers)
@@ -46,6 +47,10 @@ Table of Contents
 - [Multimedia](#multimedia)
 - [Others](#others)
 
+Fonts
+-----
+
+- :beer: Fantasque Sans Mono :us:
 
 Utilities
 ---------
