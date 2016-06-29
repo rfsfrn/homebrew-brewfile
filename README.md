@@ -56,6 +56,7 @@ Utilities
 - :beer: CheatSheet
 - :beer: Karabiner
 - :beer: Seil
+- :beer: KeyCastr
 - :beer: mas-cli
 
 Productivity
