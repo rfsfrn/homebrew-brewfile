@@ -109,6 +109,8 @@ Developers
 
 - :beer: Dash
 - :beer: Docker Toolbox
+- :beer: ImageAlpha
+- :beer: ImageOptim
 - :beer: Vagrant
 
 Graphics
