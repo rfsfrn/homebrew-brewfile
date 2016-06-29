@@ -115,6 +115,8 @@ Graphics
 --------
 
 - :beer: Adobe Creative Cloud
+- :beer: GIMP
+- :beer: Inkscape
 
 Multimedia
 ----------
