@@ -68,6 +68,7 @@ Productivity
 ------------
 
 - :beer: Alfred
+- :beer: Box
 - :beer: Dropbox
 - :beer: Evernote
 - :beer: f.lux
