@@ -57,6 +57,7 @@ Utilities
 
 - :beer: Adobe Flash Player
 - :beer: Amphetamine
+- :beer: Android File Transfer
 - :beer: AppCleaner
 - :beer: CheatSheet
 - :beer: Karabiner
