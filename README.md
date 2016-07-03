@@ -113,6 +113,8 @@ Developers
 - :beer: ImageAlpha
 - :beer: ImageOptim
 - :beer: Vagrant
+- :beer: VirtualBox
+- :beer: VirtualBox Extension Pack
 
 Graphics
 --------
