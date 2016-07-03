@@ -123,6 +123,7 @@ Graphics
 - :beer: Adobe Creative Cloud
 - :beer: GIMP
 - :beer: Inkscape
+- :beer: Pixate Studio
 
 Multimedia
 ----------
