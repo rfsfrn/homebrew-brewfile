@@ -82,7 +82,7 @@ Browsers
 
 - :beer: Firefox
 - :beer: Google Chrome
-- :beer: Tow Browser
+- :beer: Tor Browser
 - :beer: Opera
 - :beer: Vivaldi
 
